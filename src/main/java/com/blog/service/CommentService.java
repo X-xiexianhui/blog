@@ -5,7 +5,7 @@ import com.blog.po.Comment;
 import java.util.List;
 
 /**
- * Created by limi on 2017/10/22.
+ * Created by XieXianhui on 2021/09/02.
  */
 public interface CommentService {
 

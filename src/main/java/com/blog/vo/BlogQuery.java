@@ -1,7 +1,7 @@
 package com.blog.vo;
 
 /**
- * Created by limi on 2017/10/20.
+ * Created by XieXianhui on 2021/09/07.
  */
 public class BlogQuery {
 

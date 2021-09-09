@@ -3,7 +3,7 @@ package com.blog.service;
 import com.blog.po.User;
 
 /**
- * Created by limi on 2017/10/15.
+ * Created by XieXianhui on 2021/09/05.
  */
 public interface UserService {
 
